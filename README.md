@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/Kunjan3011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=720&lines=Junior+Backend+Developer+%E2%80%A2+Trainee+%40+Softrefine+Technology;Building+FastAPI+services+with+clean%2C+testable+APIs;Shipping+AI-powered+products+%E2%80%94+IKS+%2F+Govt.+of+India;CGPA+9.91%2F10+%E2%80%A2+B.E.+CSE+%E2%80%A2+Noble+University" alt="typing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=720&lines=Junior+Backend+Developer;Building+FastAPI+services+with+clean%2C+testable+APIs;Shipping+AI-powered+products+%E2%80%94+IKS+%2F+Govt.+of+India;CGPA+9.91%2F10+%E2%80%A2+B.E.+CSE+%E2%80%A2+Noble+University" alt="typing roles" />
 </a>
 
 <br/>
@@ -75,7 +75,7 @@ class KunjanChittroda:
   <tr>
     <td width="50%" valign="top">
 
-### AyurPanchangAI
+### [AyurPanchangAI](https://github.com/Kunjan3011/AyurPanchangAI)
 *React Native &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; OpenAI*
 
 AI-powered Ayurvedic wellness app **approved by the Indian Knowledge System (Ministry of Education, Govt. of India)**.
