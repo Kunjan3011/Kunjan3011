@@ -2,7 +2,7 @@
 <!--  HEADER BANNER                                                       -->
 <!-- =================================================================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Kunjan%20Chittroda&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Python%20Developer%20%7C%20FastAPI%20Backend%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Kunjan%20Chittroda&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn)
 
 <!-- =================================================================== -->
 <!--  TYPING ANIMATION + SOCIAL                                          -->
@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/Kunjan3011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=720&lines=Junior+Backend+Developer;Building+FastAPI+services+with+clean%2C+testable+APIs;Shipping+AI-powered+products+%E2%80%94+IKS+%2F+Govt.+of+India;CGPA+9.91%2F10+%E2%80%A2+B.E.+CSE+%E2%80%A2+Noble+University" alt="typing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=920&lines=Python+Developer+%2F+Backend+Developer+%2F+AI%2FML+Enthusiast;Building+FastAPI+services+with+clean%2C+testable+APIs;Shipping+AI-powered+products+%E2%80%94+IKS+%2F+Govt.+of+India" alt="typing roles" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@
 
 ```python
 class KunjanChittroda:
-    role        = "Junior Backend Developer (Python)"
+    role        = "Python Developer / Backend Developer / AI/ML Enthusiast"
     company     = "Softrefine Technology  -  Trainee"
     education   = "B.E. CSE  -  Noble University  (CGPA 9.91/10)"
     stack       = ["Python", "FastAPI", "MySQL", "MongoDB",
